@@ -1,0 +1,7 @@
+F:\C# Development\Beginning C# Programming with VS 2017\Chapter 3\Ch03Ex03\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\C# Development\Beginning C# Programming with VS 2017\Chapter 3\Ch03Ex03\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\C# Development\Beginning C# Programming with VS 2017\Chapter 3\Ch03Ex03\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\C# Development\Beginning C# Programming with VS 2017\Chapter 3\Ch03Ex03\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+F:\C# Development\Beginning C# Programming with VS 2017\Chapter 3\Ch03Ex03\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\C# Development\Beginning C# Programming with VS 2017\Chapter 3\Ch03Ex03\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\C# Development\Beginning C# Programming with VS 2017\Chapter 3\Ch03Ex03\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

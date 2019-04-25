@@ -1,0 +1,7 @@
+F:\C# Development\Beginning C# Programming with VS 2017\Chapter 3\CH03Ex01\CH03Ex01\bin\Debug\CH03Ex01.exe.config
+F:\C# Development\Beginning C# Programming with VS 2017\Chapter 3\CH03Ex01\CH03Ex01\bin\Debug\CH03Ex01.exe
+F:\C# Development\Beginning C# Programming with VS 2017\Chapter 3\CH03Ex01\CH03Ex01\bin\Debug\CH03Ex01.pdb
+F:\C# Development\Beginning C# Programming with VS 2017\Chapter 3\CH03Ex01\CH03Ex01\obj\Debug\CH03Ex01.csprojAssemblyReference.cache
+F:\C# Development\Beginning C# Programming with VS 2017\Chapter 3\CH03Ex01\CH03Ex01\obj\Debug\CH03Ex01.csproj.CoreCompileInputs.cache
+F:\C# Development\Beginning C# Programming with VS 2017\Chapter 3\CH03Ex01\CH03Ex01\obj\Debug\CH03Ex01.exe
+F:\C# Development\Beginning C# Programming with VS 2017\Chapter 3\CH03Ex01\CH03Ex01\obj\Debug\CH03Ex01.pdb
