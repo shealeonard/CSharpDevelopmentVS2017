@@ -1,0 +1,15 @@
+F:\C# Development\Beginning C# Programming with VS 2017\Chapter 2\Source Code\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+F:\C# Development\Beginning C# Programming with VS 2017\Chapter 2\Source Code\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+F:\C# Development\Beginning C# Programming with VS 2017\Chapter 2\Source Code\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+F:\C# Development\Beginning C# Programming with VS 2017\Chapter 2\Source Code\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+F:\C# Development\Beginning C# Programming with VS 2017\Chapter 2\Source Code\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+F:\C# Development\Beginning C# Programming with VS 2017\Chapter 2\Source Code\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+F:\C# Development\Beginning C# Programming with VS 2017\Chapter 2\Source Code\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+F:\C# Development\Beginning C# Programming with VS 2017\Chapter 2\Source Code\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+F:\C# Development\Beginning C# Programming with VS 2017\Chapter 2\Source Code\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+F:\C# Development\Beginning C# Programming with VS 2017\Chapter 2\Source Code\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+F:\C# Development\Beginning C# Programming with VS 2017\Chapter 2\Source Code\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+F:\C# Development\Beginning C# Programming with VS 2017\Chapter 2\Source Code\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+F:\C# Development\Beginning C# Programming with VS 2017\Chapter 2\Source Code\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+F:\C# Development\Beginning C# Programming with VS 2017\Chapter 2\Source Code\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+F:\C# Development\Beginning C# Programming with VS 2017\Chapter 2\Source Code\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
